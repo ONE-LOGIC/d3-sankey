@@ -1,0 +1,9 @@
+{
+  "name": "sankey-d3",
+  "version": "1.4.0",
+  "description": "Sankey diagrams show flows between processes or relationships between sets. ",
+  "main": "releases/sankey_1.4_2013_03_12.js",
+  "license": "BSD-3-Clause",
+  "ignore": [ "**/.*" ],
+  "keywords": [ "diagram", "chart", "sankey" ]
+}
